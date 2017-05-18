@@ -1,0 +1,9 @@
+dbDir:./db/
+
+
+
+imgDir:./imgs/
+
+
+
+dbs:[('herbdb1', 'biouser', 'localhost', 'biouser')]
