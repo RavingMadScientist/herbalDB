@@ -566,21 +566,3 @@ def checkAndReplace(dName="worddb1"):
     makeWordDBDatabase()
     makeWordDBTables()
         
-#checkAndReplace()
-
-
-"""
-Next up on the to-do list for wordQuery: 
----DONE---1) write tagBinds  routine for addWords
----DONE---2) write query -> sql (and result parsing) loop
-
-# Debug that shit
-
----DONE---3) write results display table, 
----DONE---with autosorting enabled
----DONE---3,5 finish regexes
-4) write word expansion tabs (w editing option...)
-5) flash cards
-5) enable root specification
-
-"""
